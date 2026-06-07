@@ -29,9 +29,9 @@ pip install torch torchvision pillow
 
 在运行 main.py 时，你可以自由配置三个参数（范围 0.0 - 1.0）：
 
-融合强度 (blend_strength): 控制原图向目标图色彩靠拢的绝对力度。
+融合强度 (blend_strength): 控制原图向目标图色彩靠拢的力度。
 
-保色阈值 (similarity_threshold): 容差度系统。数值越大，代表门槛越低，越来越多的原图像素会被强制染成目标色。
+保色阈值 (similarity_threshold): 容差度系统。数值越大，代表相色相似度更低的原图像素会被强制染成目标色。
 
 光影匹配强度 (hist_strength): 控制最终画面明暗分布向目标图靠近的程度。
 
