@@ -1,4 +1,4 @@
-# 🎨 ColorEngine V1.0.3: 光影与色彩仿色引擎
+# 🎨 ColorEngine V1.0.3: 基于pytorch的影调与色彩仿色引擎
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
